@@ -7,3 +7,5 @@
 4-Verificacion: cuando termina la etapa de implementacion se verifica que todo ande correctamente.
 
 5-Instalacion y mantenimiento: Se hace la instalacion del software y se verifica que todo funcione correctamente.
+
+"Parcial avanzado"
